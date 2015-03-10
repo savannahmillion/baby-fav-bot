@@ -1,0 +1,14 @@
+{
+  "name": "baby-fav-bot",
+  "version": "1.0.0",
+  "description": "a bot that favorites",
+  "main": "node_modules/twit/examples/baby-fav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "savannah million",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^1.1.20"
+  }
+}
